@@ -1,6 +1,6 @@
 # AriaNg
 [![License](https://img.shields.io/github/license/mayswind/AriaNg.svg?style=flat)](https://github.com/mayswind/AriaNg/blob/master/LICENSE)
-[![Lastest Build](https://img.shields.io/circleci/project/github/mayswind/AriaNg.svg?style=flat)](https://circleci.com/gh/mayswind/AriaNg/tree/master)
+[![Lastest Build](https://img.shields.io/github/actions/workflow/status/mayswind/AriaNg/build-snapshot.yml?branch=master)](https://github.com/mayswind/AriaNg/actions)
 [![Lastest Release](https://img.shields.io/github/release/mayswind/AriaNg.svg?style=flat)](https://github.com/mayswind/AriaNg/releases)
 
 ## Introduction
@@ -75,6 +75,7 @@ Currently available translations:
 | es | Español | [@castillofrancodamian](https://github.com/castillofrancodamian) |
 | fr-FR | Français | [@Valaraukar86](https://github.com/Valaraukar86) |
 | it-IT | Italiano | [@ale-saglia](https://github.com/ale-saglia) |
+| ja-JP | 日本語 | [@massangoDa](https://github.com/massangoDa) |
 | pl-PL | Polski | [@Pirania3680](https://github.com/Pirania3680) |
 | ru-RU | Русский | [@gazizovemil](https://github.com/gazizovemil) |
 | zh-Hans | 简体中文 | / |
